@@ -1,10 +1,5 @@
 <img src="./images/image.avif" align="center"></img>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License">
-</p>
-
 
 
 <div align="center">
