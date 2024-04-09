@@ -17,3 +17,9 @@
 <p align="center">
   By choosing Unloqen, users gain control over their digital assets and enjoy peace of mind while navigating the exciting world of cryptocurrency.
 </p>
+
+---
+
+</br>
+
+Want to learn more about Unloqen? Check out our [gitbook](https://unloqen.gitbook.io/doc) for a detailed overview of our project.
